@@ -20,6 +20,15 @@ RPA(UiPath), Python, ERP, 데이터 시각화 등에 흥미를 가지고 있으�
 
 ---
 
+## 🙋‍♀️ 작성자 정보
+
+- **작성자**: 구나경  
+- **이메일**: your@email.com  
+- **LinkedIn**: [🔗 바로가기](https://www.linkedin.com/in/your-username)
+
+---
+
+
 ## 📁 프로젝트 목록
 
 | 프로젝트명 | 설명 | 링크 |
