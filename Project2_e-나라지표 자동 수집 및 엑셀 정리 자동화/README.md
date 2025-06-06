@@ -66,13 +66,14 @@ e-나라지표 데이터 수집 및 자동화 과정을 시각적으로 정리�
 
 ![e-나라지표 자동화 7단계](./flowchart_S2.png)
 
-### 📄 전체 슬라이드 보기
 
-- 🔗 [감마 웹 프레젠테이션 바로가기](https://bqloqwgt.gensparkspace.com/)
-- 📎 [PDF로 보기 (flowchart_S2_ppt.pdf)](./flowchart_S2_ppt.pdf)
+### 🔗 전체 워크플로우 보기
 
-> 이 슬라이드는 데이터 분석 시간 단축, 정확성 향상, 실시간 보고 자동화의 구조를 시각화한 자료입니다.
+- 🌐 [웹 프레젠테이션 보기 (Gamma 링크)](https://bqloqwgt.gensparkspace.com/)
+- 📄 [PDF 다운로드 (e-7.pdf)](https://assets.api.gamma.app/export/pdf/kysfzpja5m6kr23/8b3ae7726d696ec05732cc45d021e7eb/e-7.pdf)
 
+> 이 자료는 반복 업무를 자동화하는 전체 구조를 요약한 시각적 문서이며,  
+> 프로젝트 발표 및 실무 보고에 바로 활용 가능한 구조로 작성되었습니다.
 ---
 
 ## 💻 사용 환경
