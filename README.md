@@ -26,7 +26,7 @@ RPA(UiPath), Python, ERP, 데이터 시각화 등에 흥미를 가지고 있으�
 > 📬 포트폴리오 관련 문의는
 > 
 > ✉️ [이메일 보내기](mailto:2215486@donga.ac.kr)
-> 
+
 > 🔗 [LinkedIn 프로필 보기](https://www.linkedin.com/in/%EB%82%98%EA%B2%BD-%EA%B5%AC-b250b636a/)
 
 ---
