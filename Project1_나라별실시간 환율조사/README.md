@@ -62,7 +62,7 @@ Project1_나라별실시간 환율조사/README.md
 아래는 전체 프로세스의 시각화 흐름도입니다.  
 실제 UiPath 로직을 기준으로 주요 단계가 정리되어 있습니다.
 
-![환율 자동화 흐름도](./flowchart.png)
+![환율 자동화 흐름도](./flowchart_S1.png)
 
 > 📌 더 크게 보고 싶다면 👉  
 > 🔗 [**웹에서 보기 (Gensparkspace)**](https://qpoenrxb.gensparkspace.com/)
