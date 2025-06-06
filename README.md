@@ -23,7 +23,7 @@ RPA(UiPath), Python, ERP, 데이터 시각화 등에 흥미를 가지고 있으�
 ## 🙋‍♀️ 작성자 정보
 
 - **작성자**: 구나경  
-- **이메일**: your@email.com  
+- **이메일**: 2215486@donga.ac.kr
 - **LinkedIn**: [🔗 바로가기](https://www.linkedin.com/in/your-username)
 
 ---
