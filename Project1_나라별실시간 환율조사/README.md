@@ -161,8 +161,8 @@ Project1_나라별실시간 환율조사/README.md
 
 ---
 
-📁 프로젝트 전체 구조는 GitHub 상에서 확인 가능하며,  
-이미지 및 시연 영상은 추후 업데이트될 예정입니다.
+## 📁자세한 설계 흐름 및 액티비티 속성 설명
+👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project1-1544bbd537c980d4bc7ced3d25b2dba2?source=copy_link)
 
 > 작성자: 구나경  
 > 이메일: (필요 시 기재 가능)  
