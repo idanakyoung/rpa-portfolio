@@ -42,5 +42,20 @@ RPA(UiPath), Python, ERP, 데이터 시각화 등에 흥미를 가지고 있으�
 
 ---
 
+
+## 📘 프로젝트별 Notion 포트폴리오 링크 요약
+
+> 각 프로젝트의 상세 설계, UiPath 흐름도, 예외 처리, 회고는 아래 Notion 링크를 통해 확인하실 수 있습니다.
+
+| 프로젝트 번호 | 프로젝트명 | Notion 포트폴리오 |
+|---------------|------------|--------------------|
+| Project1 | 나라별 실시간 환율 조사 | 🔗 [Notion에서 보기](https://www.notion.so/Project1-1544bbd537c980d4bc7ced3d25b2dba2?source=copy_link) |
+| Project2 | e-나라지표 통계 자동 수집 | 🔗 [Notion에서 보기](https://www.notion.so/Project2-링크를-여기에) |
+| Project3 | ACME 인보이스 다운로드 및 검증 | 🔗 [Notion에서 보기](https://www.notion.so/Project3-링크를-여기에) |
+| Project4 | WI4 리포트 자동 수집 및 등록 | 🔗 [Notion에서 보기](https://www.notion.so/Project4-링크를-여기에) |
+| Project5 | 고객정보 및 거래 검증 자동화 | 🔗 [Notion에서 보기](https://www.notion.so/Project5-링크를-여기에) |
+
+
+
 📌 각 프로젝트 폴더 안에는 상세 설명, 흐름도 이미지, 시연 영상 등을 순차적으로 정리할 예정입니다.  
 방문해주셔서 감사합니다! 😊
