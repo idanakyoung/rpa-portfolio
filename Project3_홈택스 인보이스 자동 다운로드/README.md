@@ -1,4 +1,4 @@
-Project3_홈택스 인보이스 자동 다운로드/README.md
+Project3_ACME 인보이스 자동 다운로드/README.md
 # 프로젝트 3. ACME 인보이스 자동 다운로드 및 Total 값 검증
 
 ## 📌 프로젝트 개요
