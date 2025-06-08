@@ -84,6 +84,11 @@ ACME 시스템에서 월별 인보이스 파일을 자동 다운로드하고,
 
 ---
 
+## 📁자세한 설계 흐름 및 액티비티 속성 설명
+👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project3-ACME-20c4bbd537c980428d28ff455e2e09f6?source=copy_link)
+
+--- 
+
 📁 전체 소스 파일 및 시연 영상은 추후 GitHub에 업데이트될 예정입니다.
 
 > 작성자: 구나경  
