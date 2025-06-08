@@ -116,7 +116,7 @@ e-나라지표 데이터 수집 및 자동화 과정을 시각적으로 정리�
 ---
 
 ## 📁자세한 설계 흐름 및 액티비티 속성 설명
-👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project3-20c4bbd537c980428d28ff455e2e09f6?source=copy_link)
+👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project2-e-20c4bbd537c980d7a84cc78e618b3be2?source=copy_link)
 
 ---
 
