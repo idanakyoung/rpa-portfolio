@@ -53,7 +53,7 @@ RPA(UiPath), Python, ERP, 데이터 시각화 등에 흥미를 가지고 있으�
 | Project2 | e-나라지표 통계 자동 수집 | 🔗 [Notion에서 보기](https://www.notion.so/Project2-e-20c4bbd537c980d7a84cc78e618b3be2?source=copy_link) |
 | Project3 | ACME 인보이스 다운로드 및 검증 | 🔗 [Notion에서 보기](https://www.notion.so/Project3-ACME-20c4bbd537c980428d28ff455e2e09f6?source=copy_link) |
 | Project4 | WI4 리포트 자동 수집 및 등록 | 🔗 [Notion에서 보기](https://www.notion.so/Project4-링크를-여기에) |
-| Project5 | 고객정보 및 거래 검증 자동화 | 🔗 [Notion에서 보기](https://www.notion.so/Project5-링크를-여기에) |
+| Project5 | 고객정보 및 거래 검증 자동화 | 🔗 [Notion에서 보기](https://www.notion.so/Project5-KS-20c4bbd537c980a39fa2dd5e9c823f3e?source=copy_link) |
 
 
 
