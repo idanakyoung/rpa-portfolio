@@ -85,6 +85,8 @@ Project5_KS 고객정보 자동화/README.md
 
 ---
 
+https://www.notion.so/Project5-KS-20c4bbd537c980a39fa2dd5e9c823f3e?source=copy_link
+
 📁 전체 실행 파일, 결과 예시 및 시연 영상은 추후 GitHub에 업데이트될 예정입니다.
 
 > 작성자: 구나경  
