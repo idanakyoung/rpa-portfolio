@@ -87,10 +87,15 @@ TaxID를 기준으로 월별 리포트를 다운로드하고, 연간 단일 Exce
 
 ---
 
+## 📁자세한 설계 흐름 및 액티비티 속성 설명
+👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project3-ACME-20c4bbd537c980428d28ff455e2e09f6?source=copy_link)
+
+--- 
+
 📁 전체 소스 코드 및 샘플 결과물은 추후 GitHub에 업로드될 예정입니다.
 
 > **작성자**: 구나경  
 > **이메일**: 2215486@donga.ac.kr  
-> **LinkedIn**: [나경 구 - LinkedIn](https://www.linkedin.com/in/%EB%82%98%EA%B2%BD-%EA%B5%AC-b250b636a/)  
+> **LinkedIn**: [나경 구 - LinkedIn](https://www.notion.so/Project4-ACME-WI4-20c4bbd537c980239c8bc4886045f447?source=copy_link)  
 > **작성일**: 2025년 7월 기준
 
