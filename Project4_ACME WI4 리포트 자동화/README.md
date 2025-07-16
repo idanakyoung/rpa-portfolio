@@ -88,7 +88,7 @@ TaxID를 기준으로 월별 리포트를 다운로드하고, 연간 단일 Exce
 ---
 
 ## 📁자세한 설계 흐름 및 액티비티 속성 설명
-👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project3-ACME-20c4bbd537c980428d28ff455e2e09f6?source=copy_link)
+👉 [Notion 포트폴리오에서 확인하기](https://www.notion.so/Project4-ACME-WI4-20c4bbd537c980239c8bc4886045f447?source=copy_link)
 
 --- 
 
